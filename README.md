@@ -6,3 +6,5 @@ To run the Docker use the following command in the same folder as the docker-com
 docker-compose up -d
 
 You can view it on http://ene44163.duckdns.org:8929
+
+Just Register you acount and start using Gitlab like normal
