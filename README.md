@@ -9,4 +9,4 @@ docker-compose up -d
 
 You can view it on http://ene44163.duckdns.org:8929
 
-Just Register you acount and start using Gitlab like normal
+Just Register you account and start using Gitlab like normal
